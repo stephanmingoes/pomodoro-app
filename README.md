@@ -1,2 +1,2 @@
-[Live Site](https://pomodortimer-sc.vercel.app/)
+[Live Site](https://pomodorotimer-sc.vercel.app/)
 ![Image](/ss.jpg)
